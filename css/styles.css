@@ -341,6 +341,10 @@ pre {
     font-size   : 1em;
 }
 
+p b{
+    color: #fff;
+}
+
 a {
     background-color : transparent;
 }
